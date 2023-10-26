@@ -1,5 +1,5 @@
 # DiffTypeWordles
-### Initially created in Java, now in the process of repurposing it into Godot to avoid messing with GUIs. 
+### Created in Java
 It currently has three game modes:
 1. Normal dictionary
 2. Urban Dictionary
